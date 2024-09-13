@@ -21,7 +21,7 @@ const SearchInput = ({ onSearch }: Props) => {
         <Input
           ref={ref}
           borderRadius={20}
-          placeholder="Sesarch games..."
+          placeholder="Search games..."
           variant="filled"
         />
       </InputGroup>
